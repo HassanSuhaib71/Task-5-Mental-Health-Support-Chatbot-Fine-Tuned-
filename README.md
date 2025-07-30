@@ -22,3 +22,6 @@ The following libraries are required:
 - `accelerate`
 
 These can be installed using pip:
+
+
+This is not execute due to unavailability of GPU
